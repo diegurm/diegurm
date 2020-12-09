@@ -2,7 +2,7 @@
 
 Olá sou Diego.
 
-[![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/loiane/)
+[![Linkedin: diegurm](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegurm/)](https://www.linkedin.com/in/diegurm/)
 
 ## ⚡ Technologies
 
