@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Olá sou Diego.
+Codificando o presente, criando o futuro. Let's and enjoy! 🚀✌️
 
 [![Linkedin: diegurm](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegurm/)](https://www.linkedin.com/in/diegurm/)
 
